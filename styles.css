@@ -1,2 +1,21 @@
-
 /* Your CSS Code here. */
+body{
+	padding: 5px;
+	margin: 5 px;
+}
+#img{
+	max-width: 200px;
+	border: 2px solid brown;
+}
+#intro{
+	padding:5px;
+}
+#skills{
+	padding:5px;
+	border: 1px solid black;
+}
+#projects{
+	margin-top: 5 px;
+	padding:5px;
+	border: 1px solid black;
+}
